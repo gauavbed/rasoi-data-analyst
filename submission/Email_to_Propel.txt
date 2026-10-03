@@ -1,0 +1,32 @@
+Hi Team,
+
+Please find my assignment submission attached:
+
+1. rasoi_analysis.py – Python file with the analysis. It calculates everything again from `rasoi_growth_data.csv` using `python rasoi_analysis.py rasoi_growth_data.csv`.
+2. Rasoi_one_page_recommendation.pdf – One-page recommendation with the recommendation first, evidence second, and caveats at the end. The chart is also included.
+3. Rasoi_chart.png – The chart as a separate image.
+
+Also attached for reference:
+
+4. Rasoi_supporting_answers.pdf – Task 1–6 answers, including data findings, campaign metrics, rankings, budget allocation, kill decision, and the chart sentence.
+5. Task6_AI_usage_notes.md – AI tools used, the exact prompt I used, and one mistake made by the model.
+
+In short: I recommend stopping ShareChat video and moving more budget to Meta broad, Google UAC (actions), and Meta retargeting. Based on my analysis, the expected first-month net ROAS is around 0.56, compared with around 0.53 for the current mix.
+
+There are two points I would like to highlight:
+
+- The main data issue I found is with both Google campaigns from 19–24 July (12 rows). Trials dropped by around 94%, while spend and installs stayed normal. I flagged these rows and did not use them in the ratios instead of deleting or changing the data. Because of this, my Task 2 table uses **82–89 matched days per campaign**. The normal 90-day totals are also included in the supporting PDF.
+- The diminishing returns assumption (trials increase with spend to the power of 0.8) is an assumption. This dataset alone cannot prove it.
+
+I also have one question before any real budget is moved.
+
+The brief says that a renewal belongs to the previous day's trial. However, in this data, renewals are much more closely related to same-day trials (correlation 0.83–0.94) than previous-day trials (0.01–0.14).
+
+Could you please confirm whether renewals are dated based on the charge date or attributed back to the trial date ?
+
+For my analysis, I followed the rule in the brief. I also checked the same-day version, and the CAC changed by a maximum of ₹6 and ROAS by only 0.004, so the overall conclusion did not change.
+
+One more question: were the Google trial events from 19–24 July actually lost, or were they never recorded? If they were lost, can they be backfilled?
+
+Thanks,  
+Gaurav Bedge

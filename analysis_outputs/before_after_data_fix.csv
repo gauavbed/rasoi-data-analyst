@@ -1,0 +1,7 @@
+campaign,cost_per_trial_with_bad_days,cost_per_trial_clean,cac_with_bad_days,cac_clean,roas_with_bad_days,roas_clean
+gg_uac_actions,221.8936,208.2437,660.9152,618.9315,0.6972,0.7439
+gg_uac_installs,220.4262,206.6157,813.3706,765.5364,0.4474,0.4763
+mt_broad_aoa,213.6411,213.6411,691.7133,691.7133,0.5882,0.5882
+mt_lookalike_3pct,87.9099,87.9099,626.3805,626.3805,0.4484,0.4484
+mt_retarget_paywall,158.7009,158.7009,446.712,446.712,1.0962,1.0962
+sc_feed_video,178.625,178.625,830.5287,830.5287,0.3431,0.3431
